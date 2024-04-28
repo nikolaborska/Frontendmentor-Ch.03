@@ -1,36 +1,21 @@
-# Front-end Style Guide
+# Frontend Mentor - Blog preview card
 
-## Layout
+This is a solution to the [Blog preview card on Frontend Mentor ([https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS]). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-The designs were created to the following widths:
+## Overview
 
-- Mobile: 375px
-- Desktop: 1440px
+### Screenshot
 
-> 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
+![](./screen.png)
 
-## Colors
+## My process
 
-### Primary
+### Built with
 
-- Green: hsl(75, 94%, 57%)
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
 
-### Neutral
-
-- White: hsl(0, 0%, 100%)
-- Grey: hsl(0, 0%, 20%)
-- Dark Grey: hsl(0, 0%, 12%)
-- Off Black: hsl(0, 0%, 8%)
-
-## Typography
-
-### Body Copy
-
-- Font size (paragraph): 14px
-
-### Font
-
-- Family: [Inter](https://fonts.google.com/specimen/Inter)
-- Weights: 400, 600, 700
-
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+## Author
+- Frontend Mentor - [[@yourusername](https://www.frontendmentor.io/profile/yourusername)](https://www.frontendmentor.io/profile/nikolaborska)
